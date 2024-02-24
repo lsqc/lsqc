@@ -1,5 +1,5 @@
 ### Hi there 👋
-### #linux 🐧
+### #(arch)linux 🐧
 
 #### Contact: lsdevcloud@mail.ru
 
