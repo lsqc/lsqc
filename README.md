@@ -1,5 +1,4 @@
 ### Hi there 👋
-### #(arch)linux 🐧
 
 #### Contact: lesc@lsdevcloud.com
 
