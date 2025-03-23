@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 #### Contact: lesc@lsdevcloud.com
-#### Crackhead Industries: admin@chi.lsdevcloud.com
 
 ## current tech stack
 
