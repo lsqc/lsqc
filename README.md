@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Contact: lesc@lsdevcloud.com
+#### Contact: lsqc@lsdevcloud.net
 
 ## current tech stack
 
