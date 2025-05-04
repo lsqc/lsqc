@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### Contact: lsqc@lsdevcloud.net
-
+<!--
 ## current tech stack
 
 <div align="center">
@@ -22,7 +22,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
-
+-->
 
 ##### Total profile views:
 ![Profile Views](https://count.getloli.com/@lsdevcloud?theme=booru-lewd&scale=2)
