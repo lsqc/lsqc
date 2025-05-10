@@ -29,4 +29,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsqc&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsqc&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsqc&langs_count=12&theme=radical)
